@@ -1,4 +1,3 @@
 Export-Package: org.greenscape.organization.persistence
 Bundle-Version: 0.1.0
--buildpath: org.greenscape.organization;version=latest,\
-	org.greenscape.organization.impl;version=latest
+-buildpath: org.greenscape.organization;version=latest
