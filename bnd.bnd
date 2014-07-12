@@ -1,4 +1,4 @@
 Export-Package: org.greenscape.organization.persistence
-Bundle-Version: 0.1.0
+Bundle-Version: 0.1.1
 -buildpath: org.greenscape.organization;version=latest
 -sources: false
